@@ -12,4 +12,3 @@
 [1m[36m#       [0m[1m[35m-l[0m
 [1m[36m#[0m
 whatever
-cool
