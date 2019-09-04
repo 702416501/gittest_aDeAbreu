@@ -1,15 +1,2 @@
-﻿7[?47h[27m[24m[0m[H[J[44;1H"C:/Users/Allie/gittest_aDeAbreu/.git/COMMIT_EDITMSG" [converted][unix] 14L, 263C[2;1H[1m[36m# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-#
-# On branch [0m[1m[31mmaster[0m
-[1m[36m#
-# Initial commit
-#
-# [0m[1m[34mChanges to be committed:[0m
-[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  myfirstfile.txt[0m
-[1m[36m#
-# [0m[1m[34mUntracked files:[0m
-[1m[36m#       [0m[1m[35m-l[0m
-[1m[36m#[0m
 whatever
 cool
